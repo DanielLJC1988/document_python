@@ -1,2 +1,2 @@
-usage: ascii.py [-h] [-o OUTPUT] [--width WIDTH] [--height HEIGHT] file
-д╛хотзжу╤кткпп python ascii.py м╪ф╛цШ(ткппЁи╧╕╨Сд╛хо╩АиЗЁиoutput.txtнд╪Чё╛©М╤х╨м╦ъ╤хн╙©ия║ё╘
+О╩©usage: ascii.py [-h] [-o OUTPUT] [--width WIDTH] [--height HEIGHT] file
+И╩≤Х╝╓Е°╗Г╩┬Г╚╞Х©░Х║▄ python ascii.py Е⌡╬Г┴┤Е░█(Х©░Х║▄Ф┬░Е┼÷Е░▌И╩≤Х╝╓Д╪ Г■÷Ф┬░output.txtФ√┤Д╩╤О╪▄Е╝╫Е╨╕Е▓▄И╚≤Е╨╕Д╦╨Е▐╞И─┴О╪┴
