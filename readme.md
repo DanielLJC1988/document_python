@@ -247,12 +247,15 @@ app.config.from_envvar('环境名称key')
 
 作用: 以后可以加载数据库配置信息,redis配置信息,session配置信息
 
-
 21.request,是Werkzeug提供好的请求对象,里面封装了请求相关的所有信息,比如:请求地址,请求参数,请求方式,等等
 request.url: 请求地址
 request.method: 请求方式
 request.args: 请求参数,并且是问好后面拼接的内容,www.baidu.com?name=zhangsan&age=13
 ....
+
+
+
+ctrl+p	pycharm查看函数参数提示信息
 
 
 
